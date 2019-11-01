@@ -1,0 +1,78 @@
+body {
+	background-color: : #f6f6f6;
+}
+
+#painting {
+	height: 400px;
+	width: 400px;
+	background-color: #fff4db;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	box-shadow: 10px 10px 10px;
+}
+
+#bigbox {
+	height: 290px;
+	width:290px;
+}
+
+.red {
+	background-color: #ff0000;
+}
+
+.right {
+	float: right;
+}
+
+#dividerA {
+	height: 400px;
+	width:10px;
+}
+
+.black {
+	background-color: black;
+}
+
+.mediumbox {
+	height: 140px;
+	width: 100px;
+	float: bottom;
+}
+
+#dividerB {
+	height: 10px;
+	width: 100px;
+	position:relative; top:140px;
+}
+
+#dividerC {
+	height: 10px;
+	width: 400px;
+	position:relative; top:280px;
+}
+
+#bluebox{
+	position:relative; top:280px;
+	height: 100px;
+	width: 100px;
+	float: right;
+}
+
+.blue{
+	background-color: blue;
+}
+
+#dividerD {
+	height: 100px;
+	width: 10px;
+	position: relative; left: 370px;
+	position: relative; top: 280px;
+}
+
+#dividerE {
+	height: 10px;
+	width: 20px;
+	position: relative; left: 380px;
+	position: relative; top: 225px;
+}
